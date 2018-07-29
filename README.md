@@ -2,6 +2,8 @@
 
 ## Manual installation
 
+- `brew install htop`
+
 Clone and change directory
 
     git clone https://github.com/LEI/dot-htop.git ~/.dot/htop && cd $_
