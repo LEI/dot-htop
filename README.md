@@ -10,4 +10,4 @@ Clone and change directory
 
 Link files to home directory
 
-    ln -isv "~/.dot/htop/.htoprc" "$HOME/.htoprc"
+    ln -isv "~/.dot/htop/.config/htop/htoprc" "$HOME/.config/htop/htoprc"
