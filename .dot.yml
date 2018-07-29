@@ -1,0 +1,6 @@
+---
+role:
+  pkg:
+    - htop
+  link:
+    - ".htoprc"
