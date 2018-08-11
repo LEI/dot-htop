@@ -2,5 +2,6 @@
 role:
   pkg:
     - htop
+  dir: .config/htop
   link:
     - ".config/htop/htoprc:.config/htop"
